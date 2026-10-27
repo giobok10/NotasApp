@@ -17,3 +17,7 @@ backend/.vscode/
 *.suo
 *.userosscache
 *.sln.docstates
+
+# .db -- Database files
+*.db
+backend/notas.db
