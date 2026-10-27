@@ -1,0 +1,19 @@
+# --- Android / Gradle ---
+android/build/
+android/.gradle/
+android/app/build/
+android/.idea/
+android/*.iml
+android/local.properties
+.DS_Store
+Thumbs.db
+
+# --- C# / .NET / Backend ---
+backend/bin/
+backend/obj/
+backend/.vs/
+backend/.vscode/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
